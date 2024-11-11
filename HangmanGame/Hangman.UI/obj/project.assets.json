@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Hangman.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Hangman.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hangman.BLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hangman.BLL/1.0.0": {
+      "type": "project",
+      "path": "../Hangman.BLL/Hangman.BLL.csproj",
+      "msbuildProject": "../Hangman.BLL/Hangman.BLL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Hangman.BLL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gihlo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gihlo\\Git Code\\AtlasSchool---CS1200\\HangmanGame\\Hangman.UI\\Hangman.UI.csproj",
+      "projectName": "Hangman.UI",
+      "projectPath": "C:\\Users\\gihlo\\Git Code\\AtlasSchool---CS1200\\HangmanGame\\Hangman.UI\\Hangman.UI.csproj",
+      "packagesPath": "C:\\Users\\gihlo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gihlo\\Git Code\\AtlasSchool---CS1200\\HangmanGame\\Hangman.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gihlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\gihlo\\Git Code\\AtlasSchool---CS1200\\HangmanGame\\Hangman.BLL\\Hangman.BLL.csproj": {
+              "projectPath": "C:\\Users\\gihlo\\Git Code\\AtlasSchool---CS1200\\HangmanGame\\Hangman.BLL\\Hangman.BLL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

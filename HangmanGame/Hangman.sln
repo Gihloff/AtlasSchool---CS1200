@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HangmanGame", "HangmanGame", "{74FC5726-CD10-45F9-9A75-BDDBC1BEBB83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman.UI", "HangmanGame\Hangman.UI\Hangman.UI.csproj", "{DB11B880-2AD0-4C31-96C6-E848AD84E6F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman.BLL", "HangmanGame\Hangman.BLL\Hangman.BLL.csproj", "{701FC54E-5597-4DE5-A632-1691BFA3E20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman.Tests", "HangmanGame\Hangman.Tests\Hangman.Tests.csproj", "{CA74A0EC-420D-4DF8-8BCC-7CC2C8D4DEFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB11B880-2AD0-4C31-96C6-E848AD84E6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB11B880-2AD0-4C31-96C6-E848AD84E6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB11B880-2AD0-4C31-96C6-E848AD84E6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB11B880-2AD0-4C31-96C6-E848AD84E6F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701FC54E-5597-4DE5-A632-1691BFA3E20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701FC54E-5597-4DE5-A632-1691BFA3E20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701FC54E-5597-4DE5-A632-1691BFA3E20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701FC54E-5597-4DE5-A632-1691BFA3E20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA74A0EC-420D-4DF8-8BCC-7CC2C8D4DEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA74A0EC-420D-4DF8-8BCC-7CC2C8D4DEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA74A0EC-420D-4DF8-8BCC-7CC2C8D4DEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA74A0EC-420D-4DF8-8BCC-7CC2C8D4DEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB11B880-2AD0-4C31-96C6-E848AD84E6F6} = {74FC5726-CD10-45F9-9A75-BDDBC1BEBB83}
+		{701FC54E-5597-4DE5-A632-1691BFA3E20C} = {74FC5726-CD10-45F9-9A75-BDDBC1BEBB83}
+		{CA74A0EC-420D-4DF8-8BCC-7CC2C8D4DEFD} = {74FC5726-CD10-45F9-9A75-BDDBC1BEBB83}
+	EndGlobalSection
+EndGlobal
