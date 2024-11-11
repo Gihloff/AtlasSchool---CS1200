@@ -1,0 +1,12 @@
+C:\Users\gihlo\Git Code\AtlasSchool---CS1200\RPGInventory\Atlas.RPG.Items\obj\Debug\net8.0\Atlas.RPG.Items.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gihlo\Git Code\AtlasSchool---CS1200\RPGInventory\Atlas.RPG.Items\obj\Debug\net8.0\Atlas.RPG.Items.AssemblyInfoInputs.cache
+C:\Users\gihlo\Git Code\AtlasSchool---CS1200\RPGInventory\Atlas.RPG.Items\obj\Debug\net8.0\Atlas.RPG.Items.AssemblyInfo.cs
+C:\Users\gihlo\Git Code\AtlasSchool---CS1200\RPGInventory\Atlas.RPG.Items\obj\Debug\net8.0\Atlas.RPG.Items.csproj.CoreCompileInputs.cache
+C:\Users\gihlo\Git Code\AtlasSchool---CS1200\RPGInventory\Atlas.RPG.Items\obj\Debug\net8.0\Atlas.RPG.Items.sourcelink.json
+C:\Users\gihlo\Git Code\AtlasSchool---CS1200\RPGInventory\Atlas.RPG.Items\bin\Debug\net8.0\Atlas.RPG.Items.deps.json
+C:\Users\gihlo\Git Code\AtlasSchool---CS1200\RPGInventory\Atlas.RPG.Items\bin\Debug\net8.0\Atlas.RPG.Items.dll
+C:\Users\gihlo\Git Code\AtlasSchool---CS1200\RPGInventory\Atlas.RPG.Items\bin\Debug\net8.0\Atlas.RPG.Items.pdb
+C:\Users\gihlo\Git Code\AtlasSchool---CS1200\RPGInventory\Atlas.RPG.Items\obj\Debug\net8.0\Atlas.RPG.Items.dll
+C:\Users\gihlo\Git Code\AtlasSchool---CS1200\RPGInventory\Atlas.RPG.Items\obj\Debug\net8.0\refint\Atlas.RPG.Items.dll
+C:\Users\gihlo\Git Code\AtlasSchool---CS1200\RPGInventory\Atlas.RPG.Items\obj\Debug\net8.0\Atlas.RPG.Items.pdb
+C:\Users\gihlo\Git Code\AtlasSchool---CS1200\RPGInventory\Atlas.RPG.Items\obj\Debug\net8.0\ref\Atlas.RPG.Items.dll

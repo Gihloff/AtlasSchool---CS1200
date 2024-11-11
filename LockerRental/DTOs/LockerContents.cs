@@ -1,14 +1,8 @@
 namespace LockerRental.DTOs
 {
-    class LockerContents
+    public class LockerContents
     {
-        public string Description;
-        public string RenterName;
-
-        public void ReadDescription
-        {
-
-        }
-
+        public string Description { get; set; }
+        public string RenterName { get; set; }
     }
 }

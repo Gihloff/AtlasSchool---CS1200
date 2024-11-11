@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Atlas.RPG.UI/1.0.0": {
+        "dependencies": {
+          "Atlas.RPG.Items": "1.0.0"
+        },
+        "runtime": {
+          "Atlas.RPG.UI.dll": {}
+        }
+      },
+      "Atlas.RPG.Items/1.0.0": {
+        "runtime": {
+          "Atlas.RPG.Items.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atlas.RPG.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Atlas.RPG.Items/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

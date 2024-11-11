@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiceRollerGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+033c342d41bf37a0e12f8f519d717b0b6dd52d08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8baf07db6d6d447292be2c05a5f031bf0758b9ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiceRollerGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiceRollerGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
